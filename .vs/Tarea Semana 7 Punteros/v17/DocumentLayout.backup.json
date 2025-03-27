@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pasev\\Desktop\\Tarea Semana 7 Punteros\\Tarea Semana 7 Punteros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45A0A47C-D5C2-4139-AE6F-A786ACEE07B4}|Modificar una variable mediante punteros\\Modificar una variable mediante punteros.vcxproj|C:\\Users\\pasev\\Desktop\\Tarea Semana 7 Punteros\\Tarea Semana 7 Punteros\\Modificar una variable mediante punteros\\Modificar una variable mediante punteros.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45A0A47C-D5C2-4139-AE6F-A786ACEE07B4}|Modificar una variable mediante punteros\\Modificar una variable mediante punteros.vcxproj|solutionrelative:Modificar una variable mediante punteros\\Modificar una variable mediante punteros.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F466320-3E8D-4FE1-9C55-A966F9385606}|Intercambio de valores usando punteros\\Intercambio de valores usando punteros.vcxproj|C:\\Users\\pasev\\Desktop\\Tarea Semana 7 Punteros\\Tarea Semana 7 Punteros\\Intercambio de valores usando punteros\\Intercambio de valores usando punteros.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F466320-3E8D-4FE1-9C55-A966F9385606}|Intercambio de valores usando punteros\\Intercambio de valores usando punteros.vcxproj|solutionrelative:Intercambio de valores usando punteros\\Intercambio de valores usando punteros.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05881CC-303E-4BB4-AF07-FBE040863C86}|Tarea Semana 7 Punteros\\Tarea Semana 7 Punteros.vcxproj|C:\\Users\\pasev\\Desktop\\Tarea Semana 7 Punteros\\Tarea Semana 7 Punteros\\Tarea Semana 7 Punteros\\Tarea Semana 7 Punteros.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F05881CC-303E-4BB4-AF07-FBE040863C86}|Tarea Semana 7 Punteros\\Tarea Semana 7 Punteros.vcxproj|solutionrelative:Tarea Semana 7 Punteros\\Tarea Semana 7 Punteros.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Modificar una variable mediante punteros.cpp",
+              "DocumentMoniker": "C:\\Users\\pasev\\Desktop\\Tarea Semana 7 Punteros\\Tarea Semana 7 Punteros\\Modificar una variable mediante punteros\\Modificar una variable mediante punteros.cpp",
+              "RelativeDocumentMoniker": "Modificar una variable mediante punteros\\Modificar una variable mediante punteros.cpp",
+              "ToolTip": "C:\\Users\\pasev\\Desktop\\Tarea Semana 7 Punteros\\Tarea Semana 7 Punteros\\Modificar una variable mediante punteros\\Modificar una variable mediante punteros.cpp",
+              "RelativeToolTip": "Modificar una variable mediante punteros\\Modificar una variable mediante punteros.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T04:47:09.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Intercambio de valores usando punteros.cpp",
+              "DocumentMoniker": "C:\\Users\\pasev\\Desktop\\Tarea Semana 7 Punteros\\Tarea Semana 7 Punteros\\Intercambio de valores usando punteros\\Intercambio de valores usando punteros.cpp",
+              "RelativeDocumentMoniker": "Intercambio de valores usando punteros\\Intercambio de valores usando punteros.cpp",
+              "ToolTip": "C:\\Users\\pasev\\Desktop\\Tarea Semana 7 Punteros\\Tarea Semana 7 Punteros\\Intercambio de valores usando punteros\\Intercambio de valores usando punteros.cpp",
+              "RelativeToolTip": "Intercambio de valores usando punteros\\Intercambio de valores usando punteros.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T04:46:42.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tarea Semana 7 Punteros.cpp",
+              "DocumentMoniker": "C:\\Users\\pasev\\Desktop\\Tarea Semana 7 Punteros\\Tarea Semana 7 Punteros\\Tarea Semana 7 Punteros\\Tarea Semana 7 Punteros.cpp",
+              "RelativeDocumentMoniker": "Tarea Semana 7 Punteros\\Tarea Semana 7 Punteros.cpp",
+              "ToolTip": "C:\\Users\\pasev\\Desktop\\Tarea Semana 7 Punteros\\Tarea Semana 7 Punteros\\Tarea Semana 7 Punteros\\Tarea Semana 7 Punteros.cpp",
+              "RelativeToolTip": "Tarea Semana 7 Punteros\\Tarea Semana 7 Punteros.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T04:46:03.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
